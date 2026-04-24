@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=000000&text=Yuri&fontSize=70&fontColor=FFF" />
-
   ### 🏗️ Full-stack developer
   **High-Availability Systems | Microservices | Scalable Infrastructure**
 
